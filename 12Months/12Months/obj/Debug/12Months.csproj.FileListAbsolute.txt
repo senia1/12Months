@@ -1,0 +1,8 @@
+E:\Documents\VS2013Projects\12Months\12Months\bin\Debug\12Months.exe.config
+E:\Documents\VS2013Projects\12Months\12Months\bin\Debug\12Months.exe
+E:\Documents\VS2013Projects\12Months\12Months\bin\Debug\12Months.pdb
+E:\Documents\VS2013Projects\12Months\12Months\obj\Debug\_12Months.Form1.resources
+E:\Documents\VS2013Projects\12Months\12Months\obj\Debug\_12Months.Properties.Resources.resources
+E:\Documents\VS2013Projects\12Months\12Months\obj\Debug\12Months.csproj.GenerateResource.Cache
+E:\Documents\VS2013Projects\12Months\12Months\obj\Debug\12Months.exe
+E:\Documents\VS2013Projects\12Months\12Months\obj\Debug\12Months.pdb
